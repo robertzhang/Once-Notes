@@ -5,9 +5,18 @@
 开发的内容由浅入深。起初的几个版本功能和界面都会比较简单。最终的效果是高仿“锤子”便签。So,let's begin.
 
 ## 项目结构
+### 现在阶段内容
+* v0.1.0	
+	* 新建、编辑、保存文本文件
+	* 图文混编
+	
 to be continued...
 
 ## 使用技术
+### 1.使用的开源项目
+* greendao-1.3.7
+* nineoldandroids-library-2.4.0(暂时未用到)
+
 to be continued...
 
 ## Licenses
